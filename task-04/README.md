@@ -1,6 +1,6 @@
 I had tried my level best to understand the Script given and debugged the bugs that are there in the script.
 
-#Bugs that are identified are:
+## Bugs that are identified are:
 1.The library that is imported is made as a Comment.
 2.The start and stop buttons are entered reversely.
 3.I found 8 errors in which 7 are of semicolons and 1 is of parenthesis.
