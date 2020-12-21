@@ -6,10 +6,6 @@ My discord username is **Pranav**.
 | Task | Description | Status|
 | ---  | ---         | ---   |
 |[Task-00](https://github.com/nspr2002/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed|
-|---|---|---|
 |[Task-01](https://github.com/nspr2002/amfoss-tasks/tree/main/task-01)|Staring all amfoss repositories|Completed|
-|---|---|---|
 |[Task-02](https://github.com/nspr2002/amfoss-tasks/tree/main/task-02)|Registering Nickname in IRC Freenode|Completed|
-|---|---|---|
 |[Task-03](https://github.com/nspr2002/amfoss-tasks/tree/main/task-03)|Programming in Hackerrank|7 Done,3 need to be Done|
-|---|---|---|
