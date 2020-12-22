@@ -10,6 +10,7 @@ My discord username is **Pranav**.
 | [Task-02](https://github.com/nspr2002/amfoss-tasks/tree/main/task-02) | Registering Nickname in IRC Freenode | Completed |
 | [Task-03](https://github.com/nspr2002/amfoss-tasks/tree/main/task-03) | Programming in Hackerrank | 8 Done,2 need to be Done |
 | [Task-04](https://github.com/nspr2002/amfoss-tasks/tree/main/task-04) | Debugging Derbies | Completed |
+|[Task-06](https://github.com/nspr2002/amfoss-tasks/tree/main/task-06)|Geddit|Completed|
 | [Task-07](https://github.com/nspr2002/amfoss-tasks/tree/main/task-07) | Flutter UI | Completed |
 | [Task-08](https://github.com/nspr2002/amfoss-tasks/tree/main/task-08) | Sir Percevals quest | Completed |
 | [Task-09](https://github.com/nspr2002/amfoss-tasks/tree/main/task-09) | Telegram Spammer | Completed |
