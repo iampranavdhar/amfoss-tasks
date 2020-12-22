@@ -1,6 +1,6 @@
 # Sir Perceval's quest
 
-This task was super interesting and little bit difficult for someone who are new to these tools and Github.
+This task was super interesting though little bit difficult for someone who are new to these tools and Github.
 
 ## Modules Used
 I used request module and imported git from perceval.backends.core.git
