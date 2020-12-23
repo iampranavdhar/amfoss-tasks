@@ -29,6 +29,11 @@ This creates the csv file with the respective filename in the respective project
 ### Approach 2
 We can also get this CSV file in the script itself by adding the `csv` dependency.
 
+## Screenshot of output
+
+![Screenshot from 2020-12-23 19-53-57](https://user-images.githubusercontent.com/73348574/103013573-685df900-4563-11eb-9491-6a4521bbc690.png)
+
+
 ## Resources Used
 [Programming Rust](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283/ref=sr_1_1?ie=UTF8&qid=1515194775&sr=8-1&keywords=programming+rust)<br/>
 [Scrapping With Rust-Github Repo](https://github.com/kadekillary/scraping-with-rust)<br/>
