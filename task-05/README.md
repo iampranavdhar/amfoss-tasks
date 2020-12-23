@@ -30,6 +30,6 @@ This creates the csv file with the respective filename in the respective project
 We can also get this CSV file in the script itself by adding the `csv` dependency.
 
 ## Resources Used
-<p>[Programming Rust](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283/ref=sr_1_1?ie=UTF8&qid=1515194775&sr=8-1&keywords=programming+rust)</p>
-<p>[Scrapping With Rust-Github Repo](https://github.com/kadekillary/scraping-with-rust)</p>
-<p>[Rust-Docs](https://docs.rs/scraper/0.12.0/scraper/)</p>
+[Programming Rust](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283/ref=sr_1_1?ie=UTF8&qid=1515194775&sr=8-1&keywords=programming+rust)<br/>
+[Scrapping With Rust-Github Repo](https://github.com/kadekillary/scraping-with-rust)<br/>
+[Rust-Docs](https://docs.rs/scraper/0.12.0/scraper/)<br/>
