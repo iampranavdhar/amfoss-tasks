@@ -28,6 +28,7 @@ This creates the csv file with the respective filename in the respective project
 
 ### Approach 2
 We can also get this CSV file in the script itself by adding the `csv` dependency.
+For more information about this refer [Rust Docs on CSV](https://docs.rs/csv/1.0.0/csv/tutorial/index.html)
 
 ## Screenshot of output
 
