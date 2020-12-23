@@ -16,7 +16,7 @@
 |10|Germany|1,556,611|28,241|1,136,700|
 
 ## Overview
-Among all the tasks of amfoss I found this task to be moderate to difficult task I had experienced.And i don't know why it took so many days for me to to complete it
+This task took more time for me and found it little bit difficult than other tasks.
 
 ## Getting Output in the CSV file
 For getting output in the csv file we can try this with two methods.
@@ -30,6 +30,6 @@ This creates the csv file with the respective filename in the respective project
 We can also get this CSV file in the script itself by adding the `csv` dependency.
 
 ## Resources Used
-[Programming Rust](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283/ref=sr_1_1?ie=UTF8&qid=1515194775&sr=8-1&keywords=programming+rust)
-[Scrapping With Rust-Github Repo](https://github.com/kadekillary/scraping-with-rust)
-[Rust-Docs](https://docs.rs/scraper/0.12.0/scraper/)
+<p>[Programming Rust](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283/ref=sr_1_1?ie=UTF8&qid=1515194775&sr=8-1&keywords=programming+rust)</p>
+<p>[Scrapping With Rust-Github Repo](https://github.com/kadekillary/scraping-with-rust)</p>
+<p>[Rust-Docs](https://docs.rs/scraper/0.12.0/scraper/)</p>
