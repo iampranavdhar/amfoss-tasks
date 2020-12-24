@@ -1,8 +1,8 @@
 # HackerRank Problems:
 
-**My hackerRank Username is: nspranv**
-**My Rank in this Contest is '14'**
-**My Score in this Contest is '747.88'**
+**My hackerRank Username is: nspranv**</br>
+**My Rank in this Contest is '14'**</br>
+**My Score in this Contest is '747.88'**</br>
 
 Being from the non-CS background I had no knowledge of any programming language so I had tried to solve some of them using the knowledge that I had gained by listening to CS50 lectures i.e in  C language and other problems are done in Python which I gained some knowledge in the college lecturers and Programming with Mosh tutorial on Python.
 
