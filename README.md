@@ -15,7 +15,7 @@ My discord username is **Pranav**.
 | [Task-07](https://github.com/nspr2002/amfoss-tasks/tree/main/task-07) | Flutter UI | Completed |
 | [Task-08](https://github.com/nspr2002/amfoss-tasks/tree/main/task-08) | Sir Percevals quest | Completed |
 | [Task-09](https://github.com/nspr2002/amfoss-tasks/tree/main/task-09) | Telegram Spammer | Completed |
-| [Task-10](https://github.com/nspr2002/amfoss-tasks/tree/main/task-10) | CS50 | Almost Completed(Problem Set-04 is left) |
+| [Task-10](https://github.com/nspr2002/amfoss-tasks/tree/main/task-10) | CS50 | Almost Completed |
 | [Task-11](https://github.com/nspr2002/amfoss-tasks/tree/main/task-11) | Poster Design | Completed |
 | [Task-14](https://github.com/nspr2002/amfoss-tasks/tree/main/task-14) | Bandit Passwords | Completed |
 | [Task-15](https://github.com/nspr2002/amfoss-tasks/tree/main/task-15) | Project Euler | Completed |
